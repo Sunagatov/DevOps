@@ -39,7 +39,8 @@
 - Press the button "Apply"
 - Press the button "OK" 
 
-Jenkins job is created!
+# Jenkins job is created!
 
 If you press the button "Build now". Git will pull the project from the Github to the EC2 Instance.
+You can check the project using the command "cd /var/lib/jenkins/workspace/"
 
