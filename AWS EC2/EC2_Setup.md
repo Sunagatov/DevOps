@@ -1,6 +1,5 @@
-# Jenkins Server
+# AWS EC2 Setup
 
-### Launch AWS EC2 instance:
 - Open AWS UI dashboard.
 - Find AWS EC2 Service.
 - Press the button "Launch AWS EC2 instance"
