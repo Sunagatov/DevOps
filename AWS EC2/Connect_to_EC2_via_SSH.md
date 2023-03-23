@@ -1,4 +1,4 @@
-# Connect to EC2 via SSH
+# Connect to AWS EC2 via SSH
 
 - Download a SSH Client.
   * Name: "MobaXterm"
