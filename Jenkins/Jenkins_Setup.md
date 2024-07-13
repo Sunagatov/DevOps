@@ -3,15 +3,17 @@
 ### Connect to AWS EC2 Instance
 - Choose root user
   * Command _"_**sudo su -**_"_
+
   
 ### Install Java
 - Execute these commands
   *  amazon-linux-extras install java-openjdk11
 
+
 ### Download Jenkins
 - Visit Jenkins website
   * Link: _"https://www.jenkins.io/"_
-  
+
 - Go to Download page
   * Link: _"https://www.jenkins.io/download/"_
   
