@@ -18,6 +18,5 @@
     * Protocol: "SFTP"
     * Compression: "Yes"
     * X-11-Forwarding: "Yes"
-
   
 
