@@ -16,5 +16,3 @@
 - Execute these commands
   *  service docker status
 
-
-
